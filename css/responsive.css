@@ -1,0 +1,227 @@
+@media (min-width:992px) and (max-width:1199.98px){
+  #banner .carousel-caption h1 {
+    font-size: 50px;
+    letter-spacing: 15px;
+}
+#work .section_heading {
+  padding: 0 115px 30px 0;
+}
+.work_items .overly h4 {
+  padding-top: 40px;
+}
+#contact_form {
+  padding: 25px 0;
+}
+#contact_form textarea {
+  height: 100px;
+}
+#service .service_items {
+  padding: 20px 0px 20px 0;
+}
+#service {
+  padding: 50px 0;
+}
+#about {
+  padding: 50px 0 35px 0;
+}
+}
+
+
+
+@media (min-width:768px) and (max-width:991.98px){
+  #MyNav ul li a {
+    padding: 21px 16px;
+}
+#banner .carousel-item {
+  height: 500px;
+}
+#banner .carousel-caption h1 {
+  font-size: 40px;
+  letter-spacing: 11px;
+}
+#banner .carousel-caption h4 {
+  font-size: 24px;
+}
+.about_border {
+  border-right:none;
+}
+.about_items{
+  border-bottom:1px solid red;
+}
+h3 {
+  padding: 15px 0;
+}
+.about_items {
+  padding: 40px 0px;
+}
+#about {
+  padding: 50px 0 10px 0;
+}
+#about .islam2{
+  border-bottom:none;
+}
+#about .section_heading {
+  margin-bottom: 10px;
+}
+#about .section_heading p {
+  padding: 0 75px;
+}
+#service .service_items {
+  padding:0;
+}
+#service {
+  padding: 50px 0;
+}
+#work .section_heading {
+  line-height: 30px;
+  padding: 20px 85px;
+}
+#work {
+  padding:10px 0 40px 0;
+}
+#contact_form {
+  padding: 15px 0;
+}
+#contact_form textarea {
+  height: 90px;
+}
+.section_heading p span {
+  font-size: 16px;
+  font-weight: 400;
+}
+}
+
+
+
+@media (min-width:576px) and (max-width:767.98px){
+  #banner .carousel-item {
+    height: 400px;
+}
+#about .section_heading p {
+  padding: 0;
+}
+#about .section_heading {
+  margin-bottom: 0px;
+}
+.work_items .overly h4 {
+  padding-top: 45px;
+}
+#banner .carousel-caption h4 {
+  font-size: 17px;
+  font-weight: 400;
+}
+#banner .carousel-caption h5 {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+#service {
+  padding: 30px 0;
+}
+#contact_form textarea {
+  height: 95px;
+}
+
+}
+
+
+
+
+@media (max-width:767.98px){
+   .customNav {
+    padding: 10px 0;
+}
+#MyNav ul li a {
+  padding: 10px 5px;
+}
+#banner .carousel-item .carousel-caption {
+  left:0;
+  right:0;
+}
+#banner .carousel-caption h1 {
+  font-size: 30px;
+  letter-spacing: 10px;
+}
+.section_heading p span {
+  font-size: 16px;
+  font-weight: 400;
+}
+.about_border {
+  border-right: none;
+}
+ #about .islam{
+  border-bottom: none;
+}
+.about_items {
+  padding: 40px 0;
+  border-bottom: 2px solid green;
+}
+#about {
+  padding:40px 0 0 0 ;
+}
+#work .section_heading {
+  line-height: 30px;
+  padding:0;
+  margin-bottom:20px;
+}
+#contact_form {
+  padding: 20px 0 10px 0;
+}
+
+}
+
+
+
+@media (max-width:575.98px){
+  #banner .carousel-item {
+    height: 300px;
+}
+#banner .carousel-caption h1 {
+  font-size: 30px;
+  letter-spacing: 2px;
+  line-height: 50px;;
+  
+}
+#about .section_heading p {
+  line-height: 35px;
+  padding:0;
+}#banner .carousel-caption h4 {
+  display:none;
+}
+#banner .carousel-caption h5 {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+#banner .carousel-caption a {
+  padding:5px 10px;
+}
+#about .section_heading {
+  margin-bottom: 0px;
+}
+#service .section_heading p {
+  padding-bottom:30px;
+  line-height: 30px;
+}
+#service .service_items {
+  padding-bottom:0;
+}
+.work_items .overly h4 {
+  padding-top: 55px;
+}
+#work {
+  padding: 40px 0;
+}
+
+#contact_form textarea, #contact_form input {
+  margin-bottom: 25px;
+  height: 45px;
+}
+.back_top {
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  bottom: 20px;
+  right: 20px;
+  font-size: 18px;
+}
+}
